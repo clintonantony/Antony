@@ -7,6 +7,6 @@ void main()
  else
   if(b>c)
     printf("%d is greater",b);
- else{
+ else
    printf("%d is greater",c)';
 }   
