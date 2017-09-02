@@ -1,6 +1,6 @@
 
  a=['a','e','i','o','u','y']
- b=char(input())
+ b=input()
  for i in a:
      if b==i:
         print ("it is vowel")
